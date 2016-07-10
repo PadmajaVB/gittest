@@ -25,6 +25,4 @@ Voila! After these 3 simple steps, you've your algorithmically generated music r
 
 We've seen that algorithmic music generation with waveforms as input is possible with the use of recurrent neural networks, particularly the LSTM network. Further we can investigate the effect of adding layers of recurrent units and discovering the impact that additional layers have on performance, performing network training across genres with a substantially larger corpus.  
 
-https://soundcloud.com/padmaja-bhagwat/generated-music
-
 [Here](https://soundcloud.com/padmaja-bhagwat/generated-music) is the link to the music that we generated for the first time after training the model using 20 different piano songs for about 2000 iterations. **Enjoy:)**
